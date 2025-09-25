@@ -1,0 +1,11 @@
+Vulnerability Scan Report - Localhost 
+
+1. SSL/TLS Protocol Deprecated - Medium - CVSS: 5.0
+2. Apache Directory Listing Enabled - Medium - CVSS: 5.3
+3. SSH Weak Algorithms - Low - CVSS: 4.7
+4. SMB Signing Not Required - High - CVSS: 8.1
+
+
+
+
+
